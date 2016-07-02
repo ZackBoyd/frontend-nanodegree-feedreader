@@ -7,4 +7,5 @@ In this project you are given a web-based application that reads RSS feeds. The 
 Two Options:
 
 1.) Download all files in the is repository and open index.html in a browser
+
 2.) Go to https://zackboyd.github.io/frontend-nanodegree-feedreader/
